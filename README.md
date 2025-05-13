@@ -37,8 +37,7 @@ Before you begin, make sure you have [Node.js](https://nodejs.org/) installed on
    ```bash
    npm start
 
-   
-   This will run the app in development mode. Open http://localhost:3000 to view it in your browser.
+5. This will run the app in development mode. Open http://localhost:3000 to view it in your browser.
 
 
 
