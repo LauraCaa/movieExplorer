@@ -1,0 +1,25 @@
+.aside {
+  background-color: #f5e7fa;
+  border-left: 2px solid #ddd;
+  padding: 1rem;
+}
+.aside h3 {
+  color: #333;
+  margin-bottom: 0.5rem;
+}
+.aside ul {
+  list-style: none;
+  padding: 0;
+}
+.aside li {
+  margin-bottom: 0.25rem;
+}
+.errorMessage {
+  background-color: #f8d7da;
+  border-radius: 5px;
+  color: red;
+  font-size: 1.2rem;
+  margin-top: 20px;
+  padding: 10px;
+  text-align: center;
+}
