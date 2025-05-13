@@ -1,0 +1,15 @@
+.cardListContainer {
+  padding: 20px;
+  text-align: center;
+}
+.cardList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+}
+
+.cardList p {
+  color: #555;
+  font-size: 18px;
+}
