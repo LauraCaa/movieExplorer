@@ -1,0 +1,7 @@
+services:
+  movie-explorer:
+    build: .
+    ports:
+      - "3000:3000"
+    volumes:
+      - ".:/opt/movie-explorer"
