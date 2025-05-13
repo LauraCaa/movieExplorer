@@ -26,13 +26,18 @@ Before you begin, make sure you have [Node.js](https://nodejs.org/) installed on
    cd movieExplorer
    
 2. Install the required dependencies:
+
+   ```bash
    npm install
    
 3. Create a .env file in the root of the project and add your OMDb API key:
    REACT_APP_API_KEY=your_omdb_api_key
 
 4. Start the development server:
+   ```bash
    npm start
+
+   
    This will run the app in development mode. Open http://localhost:3000 to view it in your browser.
 
 
